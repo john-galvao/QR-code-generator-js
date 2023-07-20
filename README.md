@@ -1,3 +1,4 @@
-# QR Code Generator - HTML, CSS and JavaScript
+# QR Code Generator
 
-A Javascript project that generates a QR code which tied to any text inputted by the user.
+A Javascript project created using HTML, CSS and JavaScript 
+that generates a QR code which tied to any text inputted by the user.
